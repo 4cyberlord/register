@@ -3,6 +3,8 @@
     "username": "4cyberlord"
   },
   "records": {
-    "URL": "https://www.4cyberlord.com"
+    "A": [
+      "114.24.31.129"
+    ]
   }
 }
